@@ -1,2 +1,5 @@
 Hello World
 Hello World
+
+Still practicing adding and committing with git
+learning about git status, git add, git commit, git log etc
